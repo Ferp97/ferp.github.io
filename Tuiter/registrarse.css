@@ -1,0 +1,85 @@
+html, body{ height:100%; width: 100%; }
+
+* { margin: 0px; }
+
+div{
+	display: inline-block;
+}
+
+#superior{
+	height: 7.7%;
+	width: 100%;
+	background-color: white;	
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	padding-left: 20%;
+    box-sizing: border-box;
+}
+
+#inicio{
+    font-family:Arial, sans-serif;
+    font-weight:bold;
+    font-size: 15px;
+    color: black;
+    background-color: white;
+    width:100px;
+    height:100%;
+    outline: none;
+    border: 0;
+    box-sizing: border-box;
+}
+
+#inicio:hover {
+	border-bottom: 3px solid #fa7c07;
+}
+
+#inferior{
+	height: 92.3%;
+	width: 100%;
+	background-color: #ffb775;
+	padding-left: 20%;
+    box-sizing: border-box;
+	
+}
+
+#registro{
+	font-family:Arial, sans-serif;
+    font-weight:bold;
+    font-size: 15px;
+    color: black;
+    background-color: white;
+    width: 75%;
+    height:90%;
+    outline: none;
+    border: 0;
+    border-radius: 15px;
+}
+
+h1{
+	padding-top: 5%;
+	text-align: center;
+}
+
+#Registrarse{
+        font-family:Arial, sans-serif;
+        font-weight:bold;
+        color:white;
+        background: #fa7c07;
+        border:1px;
+        width:180px;
+        height:40px;
+        border-radius: 15px;
+}
+
+#letras{
+	padding-left: 25%;
+}
+
+#boton{
+	padding-left: 55%;
+}
+
+
+
+
+
